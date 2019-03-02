@@ -358,9 +358,7 @@
                 <h4>
                                         <a href="about.php">About</a>
 									</h4>
-                <p>
-                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
-                </p>
+                <p> We are an acoounting firm that specializes in various skills such as, solutions to complex accounting and financial reporting, advising on Capital markets.Audit on Financial statements, General accounts and Cash flow, Payroll Services and many more. Check out our About Page!     </p>
               </div>
               <span>
 									<a href="#" class="ready-btn">Read more</a>
@@ -390,9 +388,7 @@
                 <h4>
                                         <a href="services.php">Services</a>
 									</h4>
-                <p>
-                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
-                </p>
+                <p> Our services are created to suit the client's needs and wants. They exist for the sole purpose of fulfilling any customer's goal. Check out our services page for more info. </p>
               </div>
               <span>
 									<a href="#" class="ready-btn">Read more</a>
@@ -420,11 +416,9 @@
               </div>
               <div class="blog-text">
                 <h4>
-                                        <a href="appointment.php">Company history</a>
+                                        <a href="appointment.php">Want To Book An Appointment!</a>
 									</h4>
-                <p>
-                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
-                </p>
+                <p> Want to meet us and know how we can improve your business and sales. Keep track of your financial records and expenses, then contact Accuracy!                </p>
               </div>
               <span>
 									<a href="#" class="ready-btn">Read more</a>
