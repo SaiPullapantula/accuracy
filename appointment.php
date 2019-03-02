@@ -200,7 +200,7 @@
               <div class="well-text text-center">
                 <h2>Welcome To Our Accuracy</h2>
                 <p>
-                  Busuness Lorem ipsum dolor sit amet, consectetur adipiscing elit.luctus est eget congue.
+                  Learn more by subscribing.
                 </p>
                 <div class="subs-feilds">
                   <div class="suscribe-input">
@@ -250,7 +250,7 @@
                 <i class="fa fa-envelope-o"></i>
                 <p>
                   Email: info@example.com<br>
-                  <span>Web: www.example.com</span>
+                  <span>Web: https://accuracy-finance.herokuapp.com</span>
                 </p>
               </div>
             </div>
@@ -323,8 +323,7 @@
                   <h2><span>A</span>ccuracy</h2>
                 </div>
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
-                <div class="footer-icons">
+		 <div class="footer-icons">
                   <ul>
                     <li>
                       <a href="#"><i class="fa fa-facebook"></i></a>
@@ -348,9 +347,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <h4>information</h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-                </p>
+                
                 <div class="footer-contacts">
                   <p><span>Tel:</span> +123 456 789</p>
                   <p><span>Email:</span> contact@example.com</p>
