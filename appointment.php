@@ -58,7 +58,7 @@
 										<span class="icon-bar"></span>
 									</button>
                 <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                   <h1><span>A</span>ccuracy</h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
@@ -68,17 +68,17 @@
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
                   <li>
-                    <a class="page-scroll" href="index.html">Home</a>
+                    <a class="page-scroll" href="index.php">Home</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="about.html">About</a>
+                    <a class="page-scroll" href="about.php">About</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="services.html">Services</a>
+                    <a class="page-scroll" href="services.php">Services</a>
                   </li>
     
                   <li class="active">
-                    <a class="page-scroll" href="appointment.html">Appointment</a>
+                    <a class="page-scroll" href="appointment.php">Appointment</a>
                   </li>
                   
                 </ul>

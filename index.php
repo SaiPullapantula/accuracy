@@ -58,7 +58,7 @@
 										<span class="icon-bar"></span>
 									</button>
                 <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                   <h1><span>A</span>ccuracy</h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
@@ -67,18 +67,18 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
-                  <li>
-                    <a class="page-scroll" href="index.html">Home</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="about.html">About</a>
-                  </li>
                   <li class="active">
-                    <a class="page-scroll" href="services.html">Services</a>
+                    <a class="page-scroll" href="index.php">Home</a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="about.php">About</a>
+                  </li>
+                  <li>
+                    <a class="page-scroll" href="services.php">Services</a>
                   </li>
     
                   <li>
-                    <a class="page-scroll" href="appointment.html">Appointment</a>
+                    <a class="page-scroll" href="appointment.php">Appointment</a>
                   </li>
                   
                 </ul>
@@ -173,112 +173,273 @@
   <!-- End Slider Area -->
 
 
-  <div id="services" class="services-area area-padding">
+  <!-- Start team Area -->
+  <div id="team" class="our-team-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-          <div class="section-headline services-head text-center">
-            <h2>Our Services</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row text-center">
-        <div class="services-contents">
-          <!-- Start Left services -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  <h4>Personalized Services </h4>
-                  <p>Accuracy can meet clients anywhere in your journey with a unique plan that changes and grows with you, from full implementation to strategic advisory and program management.</p>
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="about-move">
-              <div class="services-details">
-                <div class="single-services">
-                
-                  <h4>Expertise</h4>
-                  <p>
-                    Our team, from data accontants to programmers, has decades of industry expertise. Our best practices and proven methods will set you up to continuously innovate and improve. Accuracy was created to help people build their businesses for a simple purpose, which is to grow.
-                  </p>
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
-            <div class=" about-move">
-              <div class="services-details">
-                <div class="single-services">
-                  
-                  <h4>Impact</h4>
-                  <p>
-                    We can achieve your goals and vision by working closely with your organization from high expenses to low profits anually, activating every employee to drive adoption and engagement. Our goal is to fullfill your goal.
-                  </p>
-                </div>
-              </div>
-              <!-- end about-details -->
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
-            
-          </div>
-          <!-- End Left services -->
-         
-          <!-- End Left services -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <!-- end col-md-4 -->
-           
+          <div class="section-headline text-center">
+            <h2>Our special Team</h2>
           </div>
         </div>
       </div>
       <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-              <div class="section-headline services-head text-center">
-                  <br><br><br><h2>FAQ</h2>
+        <div class="team-top">
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+										<img src="img/team/1.jpg" alt="">
+									</a>
+                <div class="team-social-icon text-center">
+                  <ul>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-facebook"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-twitter"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-instagram"></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="team-content text-center">
+                <h4>Jhon Mickel</h4>
+                <p>Seo</p>
               </div>
             </div>
-        <div class="col-sm-3">
-          <h6>What kind of Account Advisory Services does Accuracy provide?
-            </h6>
-            <p>Answer: Accuracy provides challenges related to equity offerings, consolidations and bankruptcy to maintain the current value of your business.
-              </p>
-        </div>
-        <div class="col-sm-3"> 
-            <h6>What kind of payment modes are accepted by Accuracy? Any Payment Schedules allowed?
-              </h6>
-              <p>Answer: Accuracy accepts Credit Cards (Visa and Master Card), Cash Checks, Debit Cards, Account Transfers and Pay pal. Yes. Accuracy offers installments of 3 payments.
-                </p>
-        </div>
-        <div class="col-sm-3"> 
-            <h6>What happens if my company decides to stop Accuracy services middle of a deal?              </h6>
-              <p>Answer: Accuracy charges on pro-rate basis and returns the remaining amount to your company by check.                </p>
-        </div>
-        <div class="col-sm-3">
-            <h6>My company is a small size and its annual turnover is only USD $500,000. 
-                Can I hire Accounting and Payroll services from Accuracy?
-                </h6>
-              <p>Answer: Yes. Accuracy offers services to all companies of all sizes starting from USD 50,000 onwards.
-                </p>
-        </div>
-        <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="section-headline services-head text-center">
-                <h6>How safe is my financial data secured on Accuracy servers?
-                  </h6>
-                  <p>Answer: Accuracy has protection in terms of physical server security and virtual cloud security. Accuracy stores it’s data with end-to-end encryption and decryptions accessible to authorized users on line and Accuracy staff has access to the data servers through biometric access. All the server rooms and servers have surveillance cameras 24x7.
-                    </p>
+          </div>
+          <!-- End column -->
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+										<img src="img/team/2.jpg" alt="">
+									</a>
+                <div class="team-social-icon text-center">
+                  <ul>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-facebook"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-twitter"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-instagram"></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="team-content text-center">
+                <h4>Andrew Arnold</h4>
+                <p>Web Developer</p>
+              </div>
             </div>
           </div>
+          <!-- End column -->
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+										<img src="img/team/3.jpg" alt="">
+									</a>
+                <div class="team-social-icon text-center">
+                  <ul>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-facebook"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-twitter"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-instagram"></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="team-content text-center">
+                <h4>Lellien Linda</h4>
+                <p>Web Design</p>
+              </div>
+            </div>
+          </div>
+          <!-- End column -->
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+										<img src="img/team/4.jpg" alt="">
+									</a>
+                <div class="team-social-icon text-center">
+                  <ul>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-facebook"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-twitter"></i>
+												</a>
+                    </li>
+                    <li>
+                      <a href="#">
+													<i class="fa fa-instagram"></i>
+												</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="team-content text-center">
+                <h4>Jhon Powel</h4>
+                <p>Seo Expert</p>
+              </div>
+            </div>
+          </div>
+          <!-- End column -->
+        </div>
       </div>
     </div>
   </div>
-  <!-- End Service area -->
+  <!-- End Team Area -->
+
+  
+  <!-- Start Blog Area -->
+  <div id="blog" class="blog-area">
+    <div class="blog-inner area-padding">
+      <div class="blog-overly"></div>
+      <div class="container ">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline text-center">
+              <h2>On Accuracy</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Start Left Blog -->
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single-blog">
+              <div class="single-blog-img">
+                <a href="#">
+										<img src="img/blog/1.jpg" alt="">
+									</a>
+              </div>
+              <div class="blog-meta">
+                <span class="comments-type">
+										<i class="fa fa-comment-o"></i>
+										<a href="#">13 comments</a>
+									</span>
+                <span class="date-type">
+										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class="blog-text">
+                <h4>
+                                        <a href="about.php">About</a>
+									</h4>
+                <p>
+                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                </p>
+              </div>
+              <span>
+									<a href="#" class="ready-btn">Read more</a>
+								</span>
+            </div>
+            <!-- Start single blog -->
+          </div>
+          <!-- End Left Blog-->
+          <!-- Start Left Blog -->
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single-blog">
+              <div class="single-blog-img">
+                <a href="#">
+										<img src="img/blog/2.jpg" alt="">
+									</a>
+              </div>
+              <div class="blog-meta">
+                <span class="comments-type">
+										<i class="fa fa-comment-o"></i>
+										<a href="#">130 comments</a>
+									</span>
+                <span class="date-type">
+										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class="blog-text">
+                <h4>
+                                        <a href="services.php">Services</a>
+									</h4>
+                <p>
+                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                </p>
+              </div>
+              <span>
+									<a href="#" class="ready-btn">Read more</a>
+								</span>
+            </div>
+            <!-- Start single blog -->
+          </div>
+          <!-- End Left Blog-->
+          <!-- Start Right Blog-->
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single-blog">
+              <div class="single-blog-img">
+                <a href="#">
+										<img src="img/blog/3.jpg" alt="">
+									</a>
+              </div>
+              <div class="blog-meta">
+                <span class="comments-type">
+										<i class="fa fa-comment-o"></i>
+										<a href="#">10 comments</a>
+									</span>
+                <span class="date-type">
+										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
+									</span>
+              </div>
+              <div class="blog-text">
+                <h4>
+                                        <a href="appointment.php">Company history</a>
+									</h4>
+                <p>
+                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
+                </p>
+              </div>
+              <span>
+									<a href="#" class="ready-btn">Read more</a>
+								</span>
+            </div>
+          </div>
+          <!-- End Right Blog-->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Blog -->
+  <!-- Start Suscrive Area -->
+  
+ 
 
   <!-- Start Wellcome Area -->
   <div class="wellcome-area">
@@ -328,7 +489,7 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
-                  Call: +1 5589 55488 55<br>
+                  Call: 857-829-4303<br>
                   <span>Monday-Friday (9am-5pm)</span>
                 </p>
               </div>
@@ -340,7 +501,7 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: info@example.com<br>
+                  Email: accuracy@gmail.com<br>
                   <span>Web: www.example.com</span>
                 </p>
               </div>
@@ -480,7 +641,7 @@
             </div>
             <div class="credits">
               
-              Designed by <a href="https://bootstrapmade.com/">Accuracy Team</a>
+              Designed by <a href="#">Accuracy Team</a>
             </div>
           </div>
         </div>

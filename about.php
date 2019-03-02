@@ -58,7 +58,7 @@
 										<span class="icon-bar"></span>
 									</button>
                 <!-- Brand -->
-                <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                   <h1><span>A</span>ccuracy</h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
@@ -67,18 +67,18 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
+                  <li>
+                    <a class="page-scroll" href="index.php">Home</a>
+                  </li>
                   <li class="active">
-                    <a class="page-scroll" href="index.html">Home</a>
+                    <a class="page-scroll" href="about.php">About</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="about.html">About</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="services.html">Services</a>
+                    <a class="page-scroll" href="services.php">Services</a>
                   </li>
     
                   <li>
-                    <a class="page-scroll" href="appointment.html">Appointment</a>
+                    <a class="page-scroll" href="appointment.php">Appointment</a>
                   </li>
                   
                 </ul>
@@ -173,273 +173,123 @@
   <!-- End Slider Area -->
 
 
-  <!-- Start team Area -->
-  <div id="team" class="our-team-area area-padding">
+  <div id="about" class="about-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>Our special Team</h2>
+            <h2>Our Staff</h2>
           </div>
         </div>
       </div>
       <div class="row">
-        <div class="team-top">
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/1.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Jhon Mickel</h4>
-                <p>Seo</p>
-              </div>
+        <!-- single-well start-->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="well-left">
+            <div class="single-well">
+              <a href="#">
+								  <img src="img/team/6.jpg" alt="">
+								</a>
             </div>
           </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/2.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Andrew Arnold</h4>
-                <p>Web Developer</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/3.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Lellien Linda</h4>
-                <p>Web Design</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-										<img src="img/team/4.jpg" alt="">
-									</a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-facebook"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-twitter"></i>
-												</a>
-                    </li>
-                    <li>
-                      <a href="#">
-													<i class="fa fa-instagram"></i>
-												</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Jhon Powel</h4>
-                <p>Seo Expert</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
         </div>
+        <!-- single-well end-->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="well-middle">
+            <div class="single-well">
+              
+              <p>This is John Dunk, CEO of Accuracy. He built this company in 2015 and is hiring new members to be part of his team that will contribute their knowledge to make businesses boom in America. Jhon is our valueable CEO who envisions that that Accuracy will help our clients reach great heights in their profits. Accuracy is proud to work with any buiness, to solve an problem.</p>
+            
+            </div>
+          </div>
+        </div>
+        <!-- End col-->
       </div>
     </div>
   </div>
-  <!-- End Team Area -->
 
-  
-  <!-- Start Blog Area -->
-  <div id="blog" class="blog-area">
-    <div class="blog-inner area-padding">
-      <div class="blog-overly"></div>
-      <div class="container ">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="section-headline text-center">
-              <h2>On Accuracy</h2>
+  <div id="about" class="about-area area-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="section-headline text-center">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <!-- single-well start-->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="well-left">
+            <div class="single-well">
+              <a href="#">
+								  <img src="img/team/8.jpg" alt="">
+								</a>
             </div>
           </div>
         </div>
-        <div class="row">
-          <!-- Start Left Blog -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="single-blog">
-              <div class="single-blog-img">
-                <a href="#">
-										<img src="img/blog/1.jpg" alt="">
-									</a>
-              </div>
-              <div class="blog-meta">
-                <span class="comments-type">
-										<i class="fa fa-comment-o"></i>
-										<a href="#">13 comments</a>
-									</span>
-                <span class="date-type">
-										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
-									</span>
-              </div>
-              <div class="blog-text">
-                <h4>
-                                        <a href="about.html">About</a>
-									</h4>
-                <p>
-                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
-                </p>
-              </div>
-              <span>
-									<a href="#" class="ready-btn">Read more</a>
-								</span>
-            </div>
-            <!-- Start single blog -->
-          </div>
-          <!-- End Left Blog-->
-          <!-- Start Left Blog -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="single-blog">
-              <div class="single-blog-img">
-                <a href="#">
-										<img src="img/blog/2.jpg" alt="">
-									</a>
-              </div>
-              <div class="blog-meta">
-                <span class="comments-type">
-										<i class="fa fa-comment-o"></i>
-										<a href="#">130 comments</a>
-									</span>
-                <span class="date-type">
-										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
-									</span>
-              </div>
-              <div class="blog-text">
-                <h4>
-                                        <a href="services.html">Services</a>
-									</h4>
-                <p>
-                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
-                </p>
-              </div>
-              <span>
-									<a href="#" class="ready-btn">Read more</a>
-								</span>
-            </div>
-            <!-- Start single blog -->
-          </div>
-          <!-- End Left Blog-->
-          <!-- Start Right Blog-->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="single-blog">
-              <div class="single-blog-img">
-                <a href="#">
-										<img src="img/blog/3.jpg" alt="">
-									</a>
-              </div>
-              <div class="blog-meta">
-                <span class="comments-type">
-										<i class="fa fa-comment-o"></i>
-										<a href="#">10 comments</a>
-									</span>
-                <span class="date-type">
-										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
-									</span>
-              </div>
-              <div class="blog-text">
-                <h4>
-                                        <a href="appointment.html">Company history</a>
-									</h4>
-                <p>
-                  Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
-                </p>
-              </div>
-              <span>
-									<a href="#" class="ready-btn">Read more</a>
-								</span>
+        <!-- single-well end-->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="well-middle">
+            <div class="single-well">
+              <p>Adam Wallace is the head programmer for our company. He builds the software which helps us the financial issues a company is facing, with his help our work goes by easier and Accuracy can help your company. Adam joined this company in 2015 and with his skills he has help this company progress greatly.</p>
             </div>
           </div>
-          <!-- End Right Blog-->
         </div>
+        <!-- End col-->
       </div>
     </div>
   </div>
-  <!-- End Blog -->
-  <!-- Start Suscrive Area -->
   
- 
+
+  <div id="about" class="about-area area-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="section-headline text-center">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <!-- single-well start-->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="well-left">
+            <div class="single-well">
+              <a href="#">
+								  <img src="img/team/7.jpg" alt="">
+								</a>
+            </div>
+          </div>
+        </div>
+        <!-- single-well end-->
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="well-middle">
+            <div class="single-well">
+              
+              <p>Vanessa Brown is our public relations, she's the one who contacts our clients and makes arrangements on when to meet. She's been a valuable asset to our company because of her communciation skills and knowledge. She has brought a lot of customers because of her wide network. Vannese has been an employee at Accuracy for 3 years.</p>
+              
+            </div>
+          </div>
+        </div>
+        <!-- End col-->
+      </div>
+    </div>
+  </div>
+
+  <div id="about" class="about-area area-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="section-headline text-center">
+            <h2>Our Company Background</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <p>The company Accuracy was built in 2015. We are an assertive firm providing our clients a full range of services from tracking your revenues and expenses, and providing consultancy on your business's financial health. The firm can help you with long range planning such as buying property or upgrading your infrastructure. Because our firm is smaller than the national CPA firms, we maintain close and open relationships with each of our clients.
+        </p>
+      </div>
+    </div>
+  </div>
 
   <!-- Start Wellcome Area -->
   <div class="wellcome-area">
@@ -489,7 +339,7 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
-                  Call: 857-829-4303<br>
+                  Call: +1 5589 55488 55<br>
                   <span>Monday-Friday (9am-5pm)</span>
                 </p>
               </div>
@@ -501,7 +351,7 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: accuracy@gmail.com<br>
+                  Email: info@example.com<br>
                   <span>Web: www.example.com</span>
                 </p>
               </div>
@@ -641,7 +491,7 @@
             </div>
             <div class="credits">
               
-              Designed by <a href="#">Accuracy Team</a>
+              Designed by <a href="https://bootstrapmade.com/">Accuracy Team</a>
             </div>
           </div>
         </div>
