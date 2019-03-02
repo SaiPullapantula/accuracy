@@ -339,7 +339,7 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
-                  Call: +1 5589 55488 55<br>
+                  Call: 857-829-4303<br>
                   <span>Monday-Friday (9am-5pm)</span>
                 </p>
               </div>
