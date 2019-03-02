@@ -351,7 +351,7 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: info@example.com<br>
+                  Email: accuracy@gmail.com<br>
                   <span>Web: https://accuracy-finance.herokuapp.com</span>
                 </p>
               </div>
