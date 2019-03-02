@@ -348,9 +348,9 @@
               <div class="footer-head">
                 <h4>information</h4>
                 
-                <div class="footer-contacts">
-                  <p><span>Tel:</span> +123 456 789</p>
-                  <p><span>Email:</span> contact@example.com</p>
+                 <div class="footer-contacts">
+                  <p><span>Tel:</span> 857-829-4303</p>
+                  <p><span>Email:</span> accuracy@gmail.com</p>
                   <p><span>Working Hours:</span> 9am-5pm</p>
                 </div>
               </div>
