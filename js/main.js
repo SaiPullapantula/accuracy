@@ -125,10 +125,10 @@
   
   
   $('.sendMessage').click(function(){
-    $('.name').val('');
-    $('.email').val('');
-    $('.subject').val('');
-    $('.message').val('');
+      $('.name').val('');
+      $('.email').val('');
+      $('.subject').val('');
+      $('.message').val('');
       alert("Message sent !");
   }
   
