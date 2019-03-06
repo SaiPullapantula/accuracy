@@ -105,6 +105,8 @@
     return false;
   });
 
+  /* ########################################################*/
+  
   $('#validateBtn').click(function(){
       var date1 = new Date($('#dateAppointment').val());
       var date2 = new Date();
@@ -120,6 +122,17 @@
           alert("Thank you for booking an appoinment!");
       }
   });
+  
+  
+  $('.sendMessage').click(function(){
+    $('#name')..val('');
+    $('#email')..val('');
+    $('#subject')..val('');
+    $('#message')..val('');
+      alert("Message sent !");
+  }
+  
+  /* ########################################################*/
 
   /*----------------------------
    Parallax
