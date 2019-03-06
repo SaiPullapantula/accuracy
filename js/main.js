@@ -106,7 +106,13 @@
   });
 
   $('#validateBtn').click(function(){
-      alert($('#dateAppointment').val()) 
+      var date1 = ne Date($('#dateAppointment').val());
+      var date2 = ne Date();
+      if(date1.yyyymmdd() > date2.yyyymmdd()) {
+        
+      } else {
+        alert("Thank you for booking an appoinment");
+      }
   });
 
   /*----------------------------
