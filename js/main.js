@@ -106,7 +106,7 @@
   });
 
   $('#validateBtn').click(function(){
-      alert("Thank you for booking an appointment!")
+      alert($('#dateAppointment').val()) 
   });
 
   /*----------------------------
