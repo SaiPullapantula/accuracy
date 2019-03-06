@@ -139,7 +139,7 @@
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">"To drive progress and make a difference by building a better working world – for our people, for our clients and for our communities."</h1>
+                  <h1 class="title2">"To drive progress and make a difference by building a better working world – for our people, for our clients and for our communities." <br> <h3 style="color:#FFFFFF">-EY</h3></h1>
                 </div>
                 <!-- layer 3 -->
                
@@ -161,7 +161,9 @@
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">"To drive progress and make a difference by building a better working world – for our people, for our clients and for our communities."</h1>
+                  <h1 class="title2">"Accounting for the most part, remains a legalistic and traditional practice, almost immune to self-criticism by scientific methods.     
+
+" <br> <h3 style="color:#FFFFFF">-Kenneth E. Boulding <h3></h1>
                 </div>
                 <!-- layer 3 -->
                 
