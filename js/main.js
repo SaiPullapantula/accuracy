@@ -106,8 +106,8 @@
   });
 
   $('#validateBtn').click(function(){
-      var date1 = ne Date($('#dateAppointment').val());
-      var date2 = ne Date();
+      var date1 = new Date($('#dateAppointment').val());
+      var date2 = new Date();
       if(date1.yyyymmdd() > date2.yyyymmdd()) {
         
       } else {
