@@ -115,8 +115,8 @@
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Accounting does not make corporate earnings or balance sheets more volatile. Accounting just increases the transparency of volatility in earnings.
-			  <br> <h4>Diane Garnick</h4>
+                  <h1 class="title2">"Accounting does not make corporate earnings or balance sheets more volatile. Accounting just increases the transparency of volatility in earnings."
+			  <br> <h3>-Diane Garnick</h3>
 </h1>
                 </div>
                 <!-- layer 3 -->
