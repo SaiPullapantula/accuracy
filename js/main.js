@@ -108,10 +108,14 @@
   $('#validateBtn').click(function(){
       var date1 = new Date($('#dateAppointment').val());
       var date2 = new Date();
-      if(date1.yyyymmdd() > date2.yyyymmdd()) {
-        
+      if(date1.getFullYear() > date2.getFullYear()) {
+         alert("Please enter a valid date.");
       } else {
-        alert("Thank you for booking an appoinment");
+          if(date1.getMonth()+1 > date2.getMonth()+1) {
+              alert("Please enter a valid date.");
+          } else {
+              alert("Thank you for booking an appoinment!");
+          }
       }
   });
 
