@@ -179,7 +179,7 @@
               <br><br><br>
               <h2>Book an appointment</h2>
               <div class="form-group">
-                  <input type="datetime-local" />
+                  <input id="dateAppointment" type="datetime-local" />
                   <input id="validateBtn" type="submit" class="btn-primary btn-sm" />
               </div>
               <br><br><br>
