@@ -115,7 +115,8 @@
       } else if(date1.getFullYear() == date2.getFullYear()) {
          if(date1.getMonth()+1 < date2.getMonth()+1) {
               alert("Please enter a valid date.");
-          }}
+          }else {
+         alert("Thank you for booking an appointment!")}
       } else {
           alert("Thank you for booking an appoinment!");
       }
