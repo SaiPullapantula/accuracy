@@ -208,8 +208,8 @@
                 </p>
                 <div class="subs-feilds">
                   <div class="suscribe-input">
-                    <input type="email" class="email form-control width-80" id="sus_email" placeholder="Email">
-                    <button type="submit" id="sus_submit" class="add-btn width-20">Subscribe</button>
+                    <input type="email" class="email form-control width-80" name="emailid" id="sus_email" placeholder="Email">
+                    <button type="submit" id="sus_submit" class="submitButton">Subscribe</button>
                     <div id="msg_Submit" class="h3 text-center hidden"></div>
                   </div>
                 </div>
