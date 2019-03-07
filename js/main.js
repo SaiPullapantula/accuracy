@@ -132,7 +132,7 @@
   });
   
   
-    $('.add-btn width-20').click(function(){
+    $('.submitButton').click(function(){
       $('.emailid').val('');
       alert("Subscribed!");
   });
