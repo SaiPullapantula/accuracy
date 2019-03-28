@@ -215,8 +215,8 @@
                 </div>
               </div>
               <div class="team-content text-center">
-                <h4>Jhon Mickel</h4>
-                <p>Seo</p>
+                <h4>John Mickel</h4>
+                <p>Ceo</p>
               </div>
             </div>
           </div>
@@ -314,7 +314,7 @@
               </div>
               <div class="team-content text-center">
                 <h4>Jhon Powel</h4>
-                <p>Seo Expert</p>
+                <p>Design Manager</p>
               </div>
             </div>
           </div>
@@ -360,7 +360,7 @@
                 <h4>
                                         <a href="about.php">About</a>
 									</h4>
-                <p> We are an acoounting firm that specializes in various skills such as, solutions to complex accounting and financial reporting, advising on Capital markets.Audit on Financial statements, General accounts and Cash flow, Payroll Services and many more. Check out our About Page!     </p>
+                <p> We are an accounting firm that specializes in various skills such as, solutions to complex accounting and financial reporting, advising on Capital markets.Audit on Financial statements, General accounts and Cash flow, Payroll Services and many more. Check out our About Page!     </p>
               </div>
               <span>
 									<a href="about.php" class="ready-btn">Read more</a>
