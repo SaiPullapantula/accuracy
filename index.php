@@ -216,7 +216,7 @@
               </div>
               <div class="team-content text-center">
                 <h4>John Mickel</h4>
-                <p>Ceo</p>
+                <p>Software and Network Engineer</p>
               </div>
             </div>
           </div>
@@ -282,7 +282,7 @@
               </div>
               <div class="team-content text-center">
                 <h4>Lellien Linda</h4>
-                <p>Web Design</p>
+                <p>Accountant</p>
               </div>
             </div>
           </div>
